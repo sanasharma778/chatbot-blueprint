@@ -112,3 +112,7 @@ if prompt := st.chat_input("Ask me about budgeting, saving, investing..."):
     
     # Add bot response to history
     st.session_state.messages.append({"role": "assistant", "content": response})
+
+    # ---- DISCLAIMER ----
+st.divider()
+st.caption("⚠️ FinBot provides general financial information only and does not constitute financial advice. Always consult a qualified financial advisor before making financial decisions.")
