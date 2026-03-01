@@ -12,10 +12,8 @@
 [Coming soon — deploying this week]
 
 ##  What Problem Does This Solve?
-Personal finance is overwhelming — especially for graduates and young 
-professionals navigating budgeting, saving and investing for the first 
-time. FinBot provides instant, conversational guidance tailored to the 
-UK financial landscape.
+Personal finance is overwhelming! especially for young adults navigating budgeting, saving and investing for the first 
+time. FinBot provides instant, conversational guidance tailored to the UK financial landscape.
 
 ##  Features
 - 4 specialist finance modes powered by prompt engineering
