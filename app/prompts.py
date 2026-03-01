@@ -1,6 +1,6 @@
 # app/prompts.py
-# This file stores all the personality instructions for our chatbot
-# Each mode has a different system prompt that shapes how the AI behaves
+# This file stores all the personality instructions for chatbot
+# Each mode has a different system prompt that shapes how the AI will behave
 
 import os
 
